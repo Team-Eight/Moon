@@ -3,13 +3,13 @@ layout: page
 title: About the Project
 tags: [about, II1305, project, sthlm-commuter]
 project: true
+excerpt: " <center><a href="https://team-eight.github.io/"><b>STHLM Commute</b></a> is a derivate of STHLM Traveling, with some extra quality of life.</center> "
+
 date: 2018-04-12
 comments: false
 ---
 
-<center><a href="https://team-eight.github.io/"><b>STHLM Commute</b></a> is a derivate of STHLM Traveling, with some extra quality of life.</center>
 
----
 
 Stockholm Commute is a derivate of the STHLM Traveling app, where our goal is to add some much needed functionality for customizing your travels
 but also to add some extra quality of life to make the app more sleek.
