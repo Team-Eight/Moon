@@ -4,7 +4,6 @@ title: About the Project
 tags: [about, II1305, project, sthlm-commuter]
 project: true
 excerpt: " <center><a href="https://team-eight.github.io/"><b>STHLM Commute</b></a> is a derivate of STHLM Traveling, with some extra quality of life.</center> "
-
 date: 2018-04-12
 comments: false
 ---
