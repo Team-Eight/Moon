@@ -1,43 +1,34 @@
 ---
 layout: page
-title: About the Project
+title: The team
 tags: [about, II1305, project, sthlm-commuter]
 date: 2018-04-12
 comments: false
 ---
 
-<center><a href="https://team-eight.github.io/"><b>STHLM Commute</b></a> is a derivate of STHLM Traveling, with some extra quality of life.</center>
 
-Stockholm Commute is a derivate of the STHLM Traveling app, where our goal is to add some much needed functionality for customizing your travels
-but also to add some extra quality of life to make the app more sleek.
-
-## Planned features
-* Combining multiple travels
-* Additional alarms for departure and disembarking
-* Greater set of parameters to customizing journeys
-* A refreshed Graphical Interface
-
-## Preview
-
-Coming soon!
-
-<!--
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
--->
-
-## Extras
-
-The project is mainly located at two different places,
-- [GitHub](https://github.com/Team-Eight), where all the code is located.
-- [ReadTheDocs](http://sthlm-commuter.readthedocs.io), where we keep our documentation of the project plus some other neat stuff to know.
+We're a team of students currently located at KTH.
+Currently taking part of a project course, where we've chosen to experiment with the [STHLM Traveling](http://sthlmtraveling.se) app. Our goal is to gain a deeper understanding of Agile Development, and to add some extra quality of life functions to the app.
 
 
-## Contact
+The following sections contains the members of Team 8 and ways to contact them.
 
-Should you want to come into contact with any of us in the Team or read more in detail about the team, you can find relevant information on our [contact page](http://sthlm-commuter.readthedocs.io/about.html).
+### Contributors
+The members of Team 8 are the following: <br>
+<img src="https://use.fontawesome.com/releases/v5.0.10/svgs/solid/user-circle.svg" alt="Product Owner" width="2%">
+<a href="mailto:filipap@kth.se?subject=[II1305] STHLM-Commute"> Filip Appelgren</a> (**Product Owner**) <br>
+<img src="https://use.fontawesome.com/releases/v5.0.10/svgs/solid/user-secret.svg" alt="Scrum Master" width="2%">
+<a href="mailto:ohahr@kth.se?subject=[II1305] STHLM-Commute"> Oskar Hahr</a> (**Scrum Master**) <br>
+<img src="https://use.fontawesome.com/releases/v5.0.10/svgs/solid/user.svg" alt="Team Member" width="2%">
+<a href="mailto:didrika@kth.se?subject=[II1305] STHLM-Commute"> Didrik Axelsson</a> <br>
+<img src="https://use.fontawesome.com/releases/v5.0.10/svgs/solid/user.svg" alt="Team Member" width="2%">
+<a href="mailto:jaberggr@kth.se?subject=[II1305] STHLM-Commute"> Jakob Berggren</a> <br>
+<img src="https://use.fontawesome.com/releases/v5.0.10/svgs/solid/user.svg" alt="Team Member" width="2%">
+<a href="mailto:jedma@kth.se?subject=[II1305] STHLM-Commute"> Johan Edman</a><br>
+<img src="https://use.fontawesome.com/releases/v5.0.10/svgs/solid/user.svg" alt="Team Member" width="2%">
+<a href="mailto:aehlert@kth.se?subject=[II1305] STHLM-Commute"> Anton Ehlert</a> <br>
+<img src="https://use.fontawesome.com/releases/v5.0.10/svgs/solid/user.svg" alt="Team Member" width="2%">
+<a href="mailto:blendaf@kth.se?subject=[II1305] STHLM-Commute"> Blenda Fröjdh</a> <br>
+
+Should there be any questions/problems, they are the the ones who should be contacted.
+There's currently no single entity to contact, so simply contact one of the above listed team members (click their respective names).
