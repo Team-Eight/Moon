@@ -8,7 +8,7 @@ tags: [sprint, ii1305, sprint planning, pdf]
 comments: false
 ---
 
-The third sprint has commenced and the goal of this sprint is to finish the main features implemented last sprint. For the features to be polished and ready for use. 
+The third sprint has commenced and the goal of this sprint is to finish the main features implemented last sprint. For the features to be polished and ready for use. We also decided to dump our previously accepted story of combining trips. 
 
 Daily scrum: 8.10 G303
 Demo date: April 27th 9.15-12.00
