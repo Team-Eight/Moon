@@ -16,4 +16,4 @@ Sprint goal: Extend on existing features
 Team members: ...
 Accepted stories: "A.."Design UI for new features, "A..."Combine trips, "A..."Add tabs 
 
-[Sprint Announcement #2 (PDF)]()
+[Sprint Announcement #2 (PDF)](https://team-eight.github.io/assets/pdf/Sprint-Announcement-2.pdf)
