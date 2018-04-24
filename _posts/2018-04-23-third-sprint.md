@@ -16,4 +16,4 @@ Sprint goal: Finish main features from last sprint
 Team members: ...
 Accepted stories: "A.."Share a trip with others, "A..."Alarm for departure, "A..."Close tabs, "A..."Alarm for destination, "A..."Search in deviation, "A..."Translate deviations, "A..."Implement swipeview 
 
-[Sprint Announcement #2 (PDF)]()
+[Sprint Announcement #3 (PDF)](https://team-eight.github.io/assets/pdf/Sprint-Announcement-3.pdf)
