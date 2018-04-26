@@ -12,4 +12,4 @@ comments: false
 The first sprint has begun and we're going to take a deep dive into the existing code
 of STHLM Traveling in order to gain an understanding of how it works.
 
-[Sprint Announcement #1 (PDF)](https://team-eight.github.io/assets/pdf/Sprint-Announcement-1.pdf)
+[Sprint Announcement #1 (PDF)](https://team-eight.github.io/assets/pdf/SprintAnnouncement-1.pdf)
