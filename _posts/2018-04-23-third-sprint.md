@@ -24,4 +24,4 @@ Accepted stories:
 - "A..." Translate deviations, 
 - "A..."Implement swipeview 
 
-[Sprint Announcement #3 (PDF)](https://team-eight.github.io/assets/pdf/Sprint-Announcement-3.pdf)
+[Sprint Announcement #3 (PDF)](https://team-eight.github.io/assets/pdf/SprintAnnouncement-3.pdf)
